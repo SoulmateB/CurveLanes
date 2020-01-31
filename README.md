@@ -8,6 +8,9 @@ CurveLanes is a new benchmark lane detection dataset with 150K lanes images for 
 
  ![Examples of the CurveLanes. More difficult scenarios such as S-curves, Y-lanes can be found in CurveLanes](CurveLanes.png)
 
+<center>    
+<img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="CurveLanes.png">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;">Examples of the CurveLanes. More difficult scenarios such as S-curves, Y-lanes can be found in CurveLanes</div> 
+</center>
 
 
 For each image, we manually annotate all lanes in image with cubic splines. Most of the annotated images in this CurveLanes dataset have more than one curve line with a large curvature. More difficult scenarios such as S-curves, Y-lanes, night and multi-lanes (the number of lane lines is more than 4) can be found in this dataset. 
