@@ -51,15 +51,47 @@ For each image, there would be a .lines.json label file, in which each line give
 
 ### Downloads
 
+The Dataset is about 77GB after compression.  We split the whole rar file into 6 parts each has about 13GB. We provide download link from Google Drive and Baidu Pan. 
 
+CurveLanes.part1.rar
+
+https://drive.google.com/open?id=1wqjJolxUeycjsehqD7izqCxJRPb7x-V5
+
+https://pan.baidu.com/s/1KsAkaa01hiGo-qrOxS88-g
+
+CurveLanes.part2.rar
+
+https://drive.google.com/open?id=1hY2Rrffy1mKAWHUSjlTsr5bMil5QwPFx
+
+https://pan.baidu.com/s/1qvIHZlOX7lYYZ9DHRdLRJw
+
+CurveLanes.part3.rar
+
+https://drive.google.com/open?id=1zX_xSRw-l-nYmhlLzK7sin9SuwKv4zxe
+
+https://pan.baidu.com/s/1ZuAH-Tm9qFLVGw6UC1EZvQ
+
+CurveLanes.part4.rar
+
+https://drive.google.com/open?id=1s5puNls7xb9mQEKx8UTfOyd86p2cQUhp
+
+https://pan.baidu.com/s/15_iAiLGhu9RCfksO-pxDuA
+
+CurveLanes.part5.rar
+
+https://drive.google.com/open?id=1mtg2X0cYbv0wSmokbjDHwc7FRdmSBeBA
+
+https://pan.baidu.com/s/1eL83vJ3fCUFCBOKvbFAbPw
+
+CurveLanes.part6.rar
+
+https://drive.google.com/open?id=1zw5a8GXD_pGpAMJDZkLhMObqtO8PqQ8V
+
+https://pan.baidu.com/s/1eEG175SM1v8Ig7H2zhZG_A
 
 ### Tools
 
-
-
-### Concact
-
- For any questions regarding this dataset, please contact Hang Xu (chromexbjxh@gmail.com).
+To be provided.
 
 ### License
 
@@ -79,8 +111,8 @@ Any academic and non-academic entities can use this dataset freely for non-comme
 
 ### Citation
 
-
+To be provided.
 
 ### Acknowledgments
 
- 
+ To be provided.
