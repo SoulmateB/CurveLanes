@@ -105,9 +105,9 @@ Any academic and non-academic entities can use this dataset freely for non-comme
 
 3. That you may not use the data set or any derivative works for commercial purposes, such as selling data or using it for commercial gain.
 
-4. That the data set is provided "as is". Although we ( Huawei Technologies Co., Ltd. ) have made every effort to ensure accuracy, we cannot accept responsibility for errors or omissions.
+4. That the data set is provided "as is". Although we have made every effort to ensure accuracy, we cannot accept responsibility for errors or omissions.
 
-5. We ( Huawei Technologies Co., Ltd. )  reserve all rights not expressly granted to you.
+5. We reserve all rights not expressly granted to you.
 
    
 
