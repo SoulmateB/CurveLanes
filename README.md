@@ -11,7 +11,7 @@ We separate the whole dataset 150K into three parts: train:100K, val: 20K and te
 
 For each image, we manually annotate all lanes in image with natural cubic splines. All images are carefully selected so that most of them image contains at least one curve lane. More difficult scenarios such as S-curves, Y-lanes, night and multi-lanes (the number of lane lines is more than 4) can be found in this dataset, as shown below. 
 
-![CurveLanes](CurveLanes.png "CurveLanes")
+![examples](examples.PNG "examples")
 
 Comparison of the distribution of the degree of curvature between common dataset and CurveLanes. The proportion of number of lanes in our CurveLanes. Our CurveLanes has more curve lanes comparing to the natural distribution of lanes. CurveLanes also has more lanes than CULane and TuSimple thus more challenging, as shown below. 
 
