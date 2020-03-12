@@ -16,7 +16,8 @@ Comparison of the distribution of the degree of curvature between common dataset
 ![proportion](proportion.png "proportion")
 
 
-More introduction of the dataset can be found in our paper.
+More introduction of the dataset can be found in our paper. For all the images, we have used automatic programs to remove faces and 
+license plate of cars.
 
 ### Annotations
 
@@ -57,41 +58,41 @@ The Dataset is about 77GB after compression.  We split the whole rar file into 6
 
 CurveLanes.part1.rar
 
-https://drive.google.com/open?id=1wqjJolxUeycjsehqD7izqCxJRPb7x-V5
+https://drive.google.com/open?id=1nTB2Cdyd0cY3nVB1rZ6Z00YjhKLvzIqr
 
-https://pan.baidu.com/s/1KsAkaa01hiGo-qrOxS88-g
+Link: https://pan.baidu.com/s/1-nmUOCrU0twBZtOe_neuLw Extraction code: m67c
 
 CurveLanes.part2.rar
 
-https://drive.google.com/open?id=1hY2Rrffy1mKAWHUSjlTsr5bMil5QwPFx
+https://drive.google.com/open?id=1iv-2Z9B6cfncogRhFPHKqNlt-u7hQnZd
 
-https://pan.baidu.com/s/1qvIHZlOX7lYYZ9DHRdLRJw
+Link: https://pan.baidu.com/s/1YrLK9tm7jRpgwaIDOzUplA  Extraction code: 8adg
 
 CurveLanes.part3.rar
 
-https://drive.google.com/open?id=1zX_xSRw-l-nYmhlLzK7sin9SuwKv4zxe
+https://drive.google.com/open?id=1n2sFDdy2KAaw-7siO7HWuwxUeVb6SXfN
 
-https://pan.baidu.com/s/1ZuAH-Tm9qFLVGw6UC1EZvQ
+Link: https://pan.baidu.com/s/10UTTRkgk5dDPXJZBQT4jAg Extraction code: ur4e 
 
 CurveLanes.part4.rar
 
-https://drive.google.com/open?id=1s5puNls7xb9mQEKx8UTfOyd86p2cQUhp
+https://drive.google.com/open?id=1xiz2oD4A0rlt3TGFdz5uzU1s-a0SbsX8
 
-https://pan.baidu.com/s/15_iAiLGhu9RCfksO-pxDuA
+Link: https://pan.baidu.com/s/1b-dShapx3Q0SyYqdhzujxQ  Extraction code: ognl
 
 CurveLanes.part5.rar
 
-https://drive.google.com/open?id=1mtg2X0cYbv0wSmokbjDHwc7FRdmSBeBA
+https://drive.google.com/open?id=1vpFSytqlsJA-rzfuY2lyXmZvEKpaovjX
 
-https://pan.baidu.com/s/1eL83vJ3fCUFCBOKvbFAbPw
+Link: https://pan.baidu.com/s/18wvCPNaQHiJmQ0YeNJOYsA  Extraction code: i6r8
 
 CurveLanes.part6.rar
 
-https://drive.google.com/open?id=1zw5a8GXD_pGpAMJDZkLhMObqtO8PqQ8V
+https://drive.google.com/open?id=1NZLvaBWj0Mnuo07bxKT7shxqi9upSegJ
 
-https://pan.baidu.com/s/1eEG175SM1v8Ig7H2zhZG_A
+Link: https://pan.baidu.com/s/1nqQ-uPnsDzQs3T35yhQqDw  Extraction code: 9q0y
 
-### Tools
+### Evaluation Tools
 
 To be provided.
 
@@ -115,6 +116,3 @@ Any academic and non-academic entities can use this dataset freely for non-comme
 
 To be provided.
 
-### Acknowledgments
-
- To be provided.
