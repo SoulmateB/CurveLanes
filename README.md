@@ -29,6 +29,36 @@ The dataset should include three parts:
 2. valid: images, labels and valid.txt
 3. test:  images and test.txt
 
+```python
+│  
+├─test
+│  └─images
+│          0001bca638957d305a25dd6be2fd5224.jpg
+│          ...
+│          
+├─train
+│  │  train.txt
+│  │  
+│  ├─images
+│  │      00007f3230d35a893230c1b3ef8c52fd.jpg
+│  │      ...
+│  │      
+│  └─labels
+│          00007f3230d35a893230c1b3ef8c52fd.lines.json
+│          ...
+│          
+└─valid
+    │  valid.txt
+    │  
+    ├─images
+    │      00022953ff37d3174cff99833df8799e.jpg
+    │      ...
+    │      
+    └─labels
+            00022953ff37d3174cff99833df8799e.lines.json
+            ...
+```
+
 For each image, there would be a .lines.json label file, in which each line gives the x, y coordinates for key points of the lane marking.
 
 ```python 
