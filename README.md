@@ -4,10 +4,12 @@
 
 ### Introduction
 
-CurveLanes is a new benchmark lane detection dataset with 150K lanes images for difficult scenarios such as curves and multi-lanes in traffic lane detection. It is collected in real urban and highway scenarios in multiple cities in China. We separate the whole dataset 150K into three parts: train:100K, val: 20K and testing: 30K. The resolution of most images in this dataset is 2650×1440.
+CurveLanes is a new benchmark lane detection dataset with 150K lanes images for difficult scenarios such as curves and multi-lanes in traffic lane detection. It is collected in real urban and highway scenarios in multiple cities in China. It is the largest lane detection dataset so far and establishes a more challenging benchmark for the community.
+
+We separate the whole dataset 150K into three parts: train:100K, val: 20K and testing: 30K. The resolution of most images in this dataset is 2650×1440.
 
 
-For each image, we manually annotate all lanes in image with natural cubic splines. Most of the annotated images in this CurveLanes dataset have more than one curve line with a large curvature. More difficult scenarios such as S-curves, Y-lanes, night and multi-lanes (the number of lane lines is more than 4) can be found in this dataset, as shown below. 
+For each image, we manually annotate all lanes in image with natural cubic splines. All images are carefully selected so that most of them image contains at least one curve lane. More difficult scenarios such as S-curves, Y-lanes, night and multi-lanes (the number of lane lines is more than 4) can be found in this dataset, as shown below. 
 
 ![CurveLanes](CurveLanes.png "CurveLanes")
 
