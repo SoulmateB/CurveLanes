@@ -17,7 +17,7 @@ Comparison of the distribution of the degree of curvature between common dataset
 
 
 More introduction of the dataset can be found in our paper. For all the images, we have used automatic programs to remove faces and 
-license plate of cars.
+license plate of cars to keep privacy of all the road users.
 
 ### Annotations
 
@@ -54,7 +54,7 @@ For each image, there would be a .lines.json label file, in which each line give
 
 ### Downloads
 
-The Dataset is about 77GB after compression.  We split the whole rar file into 6 parts each has about 13GB. We provide download link from Google Drive and Baidu Pan. 
+The Dataset is about 76GB after compression.  We split the whole rar file into 6 parts each has about 13GB. We provide download link from Google Drive and Baidu Pan to facilate users from all over the world. 
 
 CurveLanes.part1.rar
 
