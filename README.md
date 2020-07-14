@@ -145,11 +145,11 @@ Any academic and non-academic entities can use this dataset freely for non-comme
    
 
 ### Citation
-
+```text
 @InProceedings{CurveLane-NAS,
   author    = {Hang Xu, Shaoju Wang, Xinyue Cai, Wei Zhang, Xiaodan Liang, Zhenguo Li},
   title     = {CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending},
   booktitle = {ECCV},
   year      = {2020},
 }
-
+```
